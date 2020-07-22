@@ -1,0 +1,4 @@
+{
+	"mongoURI": "mongodb+srv://yago:bn8R6c16D8uFAXQF@sandboxcluster.xekyu.gcp.mongodb.net/contactKeeper?retryWrites=true&w=majority",
+	"jwtSecret": "secret"
+}
